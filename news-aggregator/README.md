@@ -1,2 +1,2 @@
-# news-crawl
-Spring Boot, news Crawler 
+# news Aggregator
+Spring Boot, news Aggregator
